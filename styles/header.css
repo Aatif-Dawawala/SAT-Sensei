@@ -1,0 +1,41 @@
+
+.header {
+  display: flex;
+  background-color: #456CEF;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 26px;
+  padding-right: 50px;
+  justify-content: space-between;
+
+}
+
+.horizontal-blue-logo {
+  height: 40px; 
+}
+
+.signup-button {
+  border: none;
+  background-color: #0FAB5F;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 50px;
+  width: 100px;
+  height: 38px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, .25);
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.right-header {
+  display: flex;
+  align-items: center;
+  column-gap: 25px;
+}
+
+.log-in-text {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}

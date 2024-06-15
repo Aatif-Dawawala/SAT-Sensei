@@ -1,0 +1,38 @@
+.study-now-footer-button {
+  border: none;
+  background-color: #65CE9B;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 72px;
+  width: 140px;
+  height: 45px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.contact-us-button {
+  border: none;
+  background-color: #65CE9B;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 72px;
+  width: 140px;
+  height: 38px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.donate-button {
+  border: none;
+  background-color: #455EE4;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 72px;
+  width: 140px;
+  height: 38px;
+  cursor: pointer;
+  font-size: 17px;
+}
